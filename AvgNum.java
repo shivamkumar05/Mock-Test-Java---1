@@ -19,7 +19,7 @@ public class AvgNum {
 
         double average = (double) sum / count;
 
-        System.out.println("Average of a list is : " + average);
+        System.out.println("Average sum of a list is : " + average);
 
     }
 
